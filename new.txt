@@ -1,4 +1,3 @@
-this is my new file 
 COURSE_ID, COURSE_NAME, DURATION
 C01, Python, 3 Months
 C02, SQL, 2 Months
