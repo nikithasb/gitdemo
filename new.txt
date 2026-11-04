@@ -5,3 +5,5 @@ C02, SQL, 2 Months
 C03, Git and GitHub, 1 Month
 C04, Linux, 2 Months
 C05, AWS, 3 Months
+C06, Linux, 2 Months
+C07, AWS, 3 Months

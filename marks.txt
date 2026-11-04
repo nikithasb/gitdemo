@@ -4,3 +4,5 @@ STUDENT_ID, COURSE, MARKS
 103, Linux, 80
 104, Python, 95
 105, Git and GitHub, 88
+106, Python, 95
+107, Git and GitHub, 88
