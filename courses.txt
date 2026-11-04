@@ -1,0 +1,6 @@
+COURSE_ID, COURSE_NAME, DURATION
+C01, Python, 3 Months
+C02, SQL, 2 Months
+C03, Git and GitHub, 1 Month
+C04, Linux, 2 Months
+C05, AWS, 3 Months

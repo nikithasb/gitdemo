@@ -1,0 +1,6 @@
+APPLICATION_NAME=Student Management System
+VERSION=1.0
+DATABASE=student_records
+ADMIN=admin
+MAX_STUDENTS=100
+STATUS=ACTIVE

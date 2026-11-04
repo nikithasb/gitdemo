@@ -1,0 +1,6 @@
+STUDENT_ID, NAME, COURSE, YEAR
+101, Nikitha, MCA, 2026
+102, Priya, BCA, 2025
+103, Anu, BSc, 2025
+104, Sneha, MCA, 2026
+105, Rahul, BCA, 2025
